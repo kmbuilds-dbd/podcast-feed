@@ -4,10 +4,10 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Daily Read</title>
-    <link>https://kmbuilds-dbd.github.io/podcast-feed</link>
+    <link>https://blog.athinkingpmat.work/podcast-feed</link>
     <description>A personalized AI-generated podcast.</description>
     <language>en</language>
-    <atom:link href="https://kmbuilds-dbd.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.athinkingpmat.work/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:owner>
       <itunes:name>The Daily Read</itunes:name>
@@ -17,11 +17,11 @@
 
     <!-- Show artwork -->
     <image>
-      <url>https://kmbuilds-dbd.github.io/podcast-feed/cover-art.png</url>
+      <url>https://blog.athinkingpmat.work/podcast-feed/cover-art.png</url>
       <title>The Daily Read</title>
-      <link>https://kmbuilds-dbd.github.io/podcast-feed</link>
+      <link>https://blog.athinkingpmat.work/podcast-feed</link>
     </image>
-    <itunes:image href="https://kmbuilds-dbd.github.io/podcast-feed/cover-art.png"/>
+    <itunes:image href="https://blog.athinkingpmat.work/podcast-feed/cover-art.png"/>
 
     <!-- Podcast player metadata -->
     <itunes:author>The Daily Read</itunes:author>
@@ -30,6 +30,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>The Gardener and the Carpenter — Alison Gopnik</title>
+      <description>Two hosts break down Alison Gopnik's argument that 'parenting' is the wrong model: kids aren't chairs you sculpt, they're gardens you tend. Covers the carpenter vs gardener metaphor, alloparenting, why pretend play is counterfactual reasoning, and why later frontal-lobe maturation correlates with higher IQ.</description>
+      <pubDate>Fri, 15 May 2026 04:55:29 GMT</pubDate>
+      <enclosure url="https://blog.athinkingpmat.work/podcast-feed/episodes/2026-05-14-214053.mp3"
+                 length="8700699"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://blog.athinkingpmat.work/podcast-feed/episodes/2026-05-14-214053.mp3</guid>
+      <itunes:duration>9:03</itunes:duration>
+      <itunes:summary>Two hosts break down Alison Gopnik's argument that 'parenting' is the wrong model: kids aren't chairs you sculpt, they're gardens you tend. Covers the carpenter vs gardener metaphor, alloparenting, why pretend play is counterfactual reasoning, and why later frontal-lobe maturation correlates with higher IQ.</itunes:summary>
+    </item>
     
   </channel>
 </rss>
