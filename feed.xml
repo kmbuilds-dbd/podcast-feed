@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Daily Read</title>
+    <link>https://kmbuilds-dbd.github.io/podcast-feed</link>
+    <description>A personalized AI-generated podcast.</description>
+    <language>en</language>
+    <atom:link href="https://kmbuilds-dbd.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:owner>
+      <itunes:name>The Daily Read</itunes:name>
+      <itunes:email>kunmor@gmail.com</itunes:email>
+    </itunes:owner>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://kmbuilds-dbd.github.io/podcast-feed/cover-art.png</url>
+      <title>The Daily Read</title>
+      <link>https://kmbuilds-dbd.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://kmbuilds-dbd.github.io/podcast-feed/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>The Daily Read</itunes:author>
+    <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    
+  </channel>
+</rss>
